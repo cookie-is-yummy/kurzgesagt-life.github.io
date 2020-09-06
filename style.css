@@ -18,6 +18,11 @@ body {
   background: #000;
   color: #fff;
 }
+span {
+  font-family: "gilroyextrabold", sans-serif;
+  background: #000;
+  color: #fff;
+}
 
 .title {
   width: 100%;
